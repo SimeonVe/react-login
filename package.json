@@ -1,10 +1,10 @@
 {
     "name": "okta-react-sample",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": true,
     "scripts": {
         "start": "vite",
-        "build": "VITE_CJS_TRACE=true vite build",
+        "build": "vite build",
         "test": "jest"
     },
     "dependencies": {
